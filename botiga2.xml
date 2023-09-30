@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="botigaN.xsl"	type="text/xsl"?>	
+<botiga>
+  <producte>
+    <codi>SW13495404</codi>
+    <nom>Vestit ajustat</nom>
+	<imatge>imatges/VestidoNegro.jpg</imatge>
+    <descripcio>Vestit ajustat negre de tirants unicolor</descripcio>
+    <quantitat>12</quantitat>
+    <preu>11.90$</preu>
+    <iva>0.56$</iva>
+	<tipus>Vestits i faldilles</tipus>
+  </producte>
+  <producte>
+    <codi>SM79654567</codi>
+    <nom>Suadera amb caputxa</nom>
+	<imatge>imatges/sudaderaRoja.jpg</imatge>
+    <descripcio>Suadera vermella amb caputxa. amb estampat de slogan</descripcio>
+    <quantitat>6</quantitat>
+    <preu>13.00$</preu>
+    <iva>1.20$</iva>
+	<tipus>Suaderes</tipus>
+  </producte>
+  <producte>
+    <codi>SR11430139</codi>
+    <nom>Jersei de quadres</nom>
+	<imatge>imatges/jerseiQuadres.jpg</imatge>
+    <descripcio>Jersei verd i blau de quadres d'espatlles caigudes</descripcio>
+    <quantitat>9</quantitat>
+    <preu>19.50$</preu>
+    <iva>0.20$</iva>
+	<tipus>Jerseis</tipus>
+  </producte>
+  <producte>
+    <codi>ST98994874</codi>
+    <nom>Samarreta de maniges curtes</nom>
+	<imatge>imatges/samaretaLila.jpg</imatge>
+    <descripcio>Samarreta Lila de maniges curtes amb estampat de lletra</descripcio>
+    <quantitat>3</quantitat>
+    <preu>10.00$</preu>
+    <iva>0.75$</iva>
+	<tipus>Samarretes</tipus>
+  </producte>
+  <producte>
+    <codi>SE64328956</codi>
+    <nom>Jeans acampanats</nom>
+	<imatge>imatges/jeansCamp.jpg</imatge>
+    <descripcio>Jeans acampanats de talla alta</descripcio>
+    <quantitat>22</quantitat>
+    <preu>14.00$</preu>
+    <iva>2.50$</iva>
+	<tipus>pantalons</tipus>
+  </producte>
+  <producte>
+    <codi>SO47456045</codi>
+    <nom>Pantalons amples</nom>
+	<imatge>imatges/pantaGris.jpg</imatge>
+    <descripcio>Pantalons grissos amples amb butxaca</descripcio>
+    <quantitat>13</quantitat>
+    <preu>10.90$</preu>
+    <iva>0.90$</iva>
+	<tipus>pantalons</tipus>
+  </producte>
+  <producte>
+    <codi>SD98643660</codi>
+    <nom>Conjunt esportiu</nom>
+	<imatge>imatges/conjuntoDepo.jpg</imatge>
+    <descripcio>Conjunt esportiu ajustat multitalla</descripcio>
+    <quantitat>15</quantitat>
+    <preu>19.10$</preu>
+    <iva>1.90$</iva>
+	<tipus>roba esportiva</tipus>
+  </producte>
+  <producte>
+    <codi>SA97634467</codi>
+    <nom>Abric encoixinat</nom>
+	<imatge>imatges/abricBlau.jpg</imatge>
+    <descripcio>Abric encoixinat de color blau amb butxaques</descripcio>
+    <quantitat>5</quantitat>
+    <preu>38.50$</preu>
+    <iva>3.59$</iva>
+	<tipus>Abrics</tipus>
+  </producte>
+  <producte>
+    <codi>SZ07866642</codi>
+    <nom>Leggings roses</nom>
+	<imatge>imatges/leggins.jpg</imatge>
+    <descripcio>Leggings roses esportius amb cintura el·lástica</descripcio>
+    <quantitat>8</quantitat>
+    <preu>10.80$</preu>
+    <iva>0.20$</iva>
+	<tipus>ropa esportiva</tipus>
+  </producte>
+  <producte>
+    <codi>SW47810237</codi>
+    <nom>Bolso vermell</nom>
+	<imatge>imatges/bolsoRojo.jpg</imatge>
+    <descripcio>Bolso vermell tou minimalista amb disseny de pompó</descripcio>
+    <quantitat>6</quantitat>
+    <preu>8.00$</preu>
+    <iva>0.46$</iva>
+	<tipus>Bolsos</tipus>
+  </producte>
+  <producte>
+    <codi>SG83729732</codi>
+    <nom>Abric de cuir</nom>
+	<imatge>imatges/abricCuir.jpg</imatge>
+    <descripcio>Abric de cuir de coll alt</descripcio>
+    <quantitat>6</quantitat>
+    <preu>19.99$</preu>
+    <iva>0.99$</iva>
+	<tipus>Abrics</tipus>
+  </producte>
+  <producte>
+    <codi>SB09992828</codi>
+    <nom>Talons</nom>
+	<imatge>imatges/taconsD.jpg</imatge>
+    <descripcio>Talons amb disseny de diamant de punta triangular</descripcio>
+    <quantitat>8</quantitat>
+    <preu>20.20$</preu>
+    <iva>1.80$</iva>
+	<tipus>Calçats</tipus>
+  </producte>
+  <producte>
+    <codi>SX93471443</codi>
+    <nom>Suadera gris</nom>
+	<imatge>imatges/sudaderaGris.jpg</imatge>
+    <descripcio>Suadera gris amb cremallera i butxaques</descripcio>
+    <quantitat>10</quantitat>
+    <preu>16.70$</preu>
+    <iva>0.86$</iva>
+	<tipus>Suaderes</tipus>
+  </producte>
+  <producte>
+    <codi>SL27319271</codi>
+    <nom>Bolso beis </nom>
+	<imatge>imatges/bolsobeis.jpg</imatge>
+    <descripcio>Bolso beis quadrada amb cadena amb solapa</descripcio>
+    <quantitat>4</quantitat>
+    <preu>11.30$</preu>
+    <iva>0.97$</iva>
+	<tipus>Bolsos</tipus>
+  </producte>
+  <producte>
+    <codi>SC29839293</codi>
+    <nom>Conjunt de pijama</nom>
+	<imatge>imatges/pijama.jpg</imatge>
+    <descripcio>Conjunt de pijama samarreta amb pantalons de ratlles</descripcio>
+    <quantitat>3</quantitat>
+    <preu>8.20$</preu>
+    <iva>0.60$</iva>
+	<tipus>Pijames</tipus>
+  </producte>
+  <producte>
+    <codi>SJ03482820</codi>
+    <nom>Botes llarges</nom>
+	<imatge>imatges/botas.jpg</imatge>
+    <descripcio>Botes llargues color negra de talons</descripcio>
+    <quantitat>4</quantitat>
+    <preu>25.90$</preu>
+    <iva>2.99$</iva>
+	<tipus>Calçats</tipus>
+  </producte>
+  <producte>
+    <codi>SF83484729</codi>
+    <nom>Faldilla negra</nom>
+	<imatge>imatges/falda.jpg</imatge>
+    <descripcio>Faldilla negra arrufada de cintura alta</descripcio>
+    <quantitat>12</quantitat>
+    <preu>8.99$</preu>
+    <iva>1.00$</iva>
+	<tipus>Vestits i faldilles</tipus>
+  </producte>
+  <producte>
+     <codi>SV28363781</codi>
+    <nom>Conjunt de pijama rosa</nom>
+	<imatge>imatges/pijamaF.jpg</imatge>
+    <descripcio>Conjunt de pijama rosa amb estampat de freses</descripcio>
+    <quantitat>9</quantitat>
+    <preu>19.90$</preu>
+    <iva>1.80$</iva>
+	<tipus>Pijames</tipus>
+  </producte>
+  <producte>
+    <codi>SH93484372</codi>
+    <nom>Samarreta curta amb obertura</nom>
+	<imatge>imatges/camisetaAbierta.jpg</imatge>
+    <descripcio>Samarreta curta amb obertura de maniges llarges</descripcio>
+    <quantitat>7</quantitat>
+    <preu>7.00$</preu>
+    <iva>0.80$</iva>
+	<tipus>Samarretes</tipus>
+  </producte>
+  <producte>
+    <codi>SP38570701</codi>
+    <nom>Sabatilles de skate</nom>
+	<imatge>imatges/sabatilles.jpg</imatge>
+    <descripcio>Sabatilles de skate negre amb blanc amb estampat combinat</descripcio>
+    <quantitat>12</quantitat>
+    <preu>28.90$</preu>
+    <iva>0.90$</iva>
+	<tipus>Calçats</tipus>
+  </producte>
+</botiga>
