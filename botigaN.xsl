@@ -13,7 +13,7 @@
   <h1 style="color:rgba(255, 99, 71, 0.8);font-size:60px;" align="center" ><font face="cambria"><i><ins><b>BOTIGA DE FATIMA</b></ins></i></font></h1><br></br>
   <form method="POST" action="cistell.php"> 
 	  <a href="cistell.php">
-	   <img alt="imagen" style="width:4%" src="imatges/cistell.png">
+	   <img alt="imagen" style="width:4%" src="cistell.png">
        </img> 
 	  </a>
   </form><br></br>
